@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Jayne!😁
+## Bem-vindo(a)!
 
  <div>
    <a href="https://github.com/jaynemr">
